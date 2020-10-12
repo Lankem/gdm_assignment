@@ -1,8 +1,24 @@
+
 body{
     background-color:#96c515;
     padding:20px;
+    font-family: times new Roman, Times, serif;
+}
+h6{
+color: rgb(119, 27, 81);
+    font-size: 14px;
+}
+h3{
+    color:rgb(207, 36, 36);
+    font-size: 25px;
 
 }
-h6, h3{
-    color:#ffff
+
+h7, h5{
+    color:whitesmoke;
+    font-size: 14px;
+}
+h4{font-size:20px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    
 }
