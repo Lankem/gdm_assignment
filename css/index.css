@@ -36,6 +36,7 @@ h4{
     color: rgba(243, 20, 131, 0.795);
 }
 .top{
+    min-width: 450px;
     background-image: url("../new_images/pregnant.jpg");
     background-repeat: no-repeat;
     background-size: 100% 100%;
