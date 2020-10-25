@@ -28,16 +28,16 @@ h2{
     font-size: 18px;
 }
 h3{
-    color:rgba(21, 223, 41, 0.89);
+    color:rgb(248, 15, 7);
     font-size: 25px;
 
 }
 h4{
-    color: rgba(243, 20, 131, 0.795);
+    color: rgb(248, 8, 68);
 }
 .top{
     min-width: 450px;
-    background-image: url("../new_images/pregnant.jpg");
+    background-image: url("../new_images/pregnancy.jpg");
     background-repeat: no-repeat;
     background-size: 100% 100%;
     width: 100%;
