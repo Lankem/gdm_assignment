@@ -13,6 +13,11 @@ p{
     font-size: 1.2em;
     text-align: justify;
 }
+h8{
+    font-size: 1em;
+    text align: justify;
+    color: rgb(255, 255, 255);
+}
 span{
     font-size:0.8em;
 }
